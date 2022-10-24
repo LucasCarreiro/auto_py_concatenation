@@ -1,4 +1,4 @@
-<h1> Automatização de concatenação de planilhas no excel
+<h1> Automatização e concatenação de planilhas no excel
 <p>
 <H1> Explicado linha por linha
 <p>
