@@ -1,4 +1,4 @@
-#Seguinte, vc primeiro tem que importar essas bibliotecas. qualquer coisa pesquisa no google "Como importar uma biblioteca python" (pandas,nump,matplotlib)#
+#Seguinte, vc primeiro tem que importar essas bibliotecas. qualquer coisa pesquisa no google "Como importar uma biblioteca python"(pandas,numpy,matplotlib)#
 
 import pandas as pd
 import numpy as np
