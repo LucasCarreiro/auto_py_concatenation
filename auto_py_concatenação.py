@@ -24,6 +24,6 @@ df_todas_as_planilhas = pd.concat([df_dia_1,df_dia_2])
 
 #Agora que temos todas as informações concatenadas, criaremos um arquivo excel com essas informações#
 
-df_todas_as_planilhas.to_excel('O Nome do Aquivo Final.xlsx')
+df_todas_as_planilhas.to_excel('O Nome do Aquivo Final.xlsx', index=False)
 
 #Fim
