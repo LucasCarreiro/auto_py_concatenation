@@ -20,7 +20,7 @@ df_dia_2 = pd.read_excel(arquivo_excel_2,sheat_name='Aqui vai o nome da planilha
 
 #Dentro do parentese abaixo vc adiciona todos os df_dia da linha anterior#
 
-df_todas_as_planilhas = pd.concat(df_dia_1,df_dia_2)
+df_todas_as_planilhas = pd.concat([df_dia_1,df_dia_2])
 
 #Agora que temos todas as informações concatenadas, criaremos um arquivo excel com essas informações#
 
